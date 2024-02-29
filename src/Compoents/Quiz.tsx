@@ -14,7 +14,7 @@ import { useEffect, useState } from "react";
 
 const Quiz: React.FC = () => {
     const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
-    const [questions, setQuestions] = useState([]);
+    const [questions, setQuestions] = useState<{ question: string, choices: string[], answer: string, }[]>([]);
 
     const question = [
         {
