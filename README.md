@@ -1,3 +1,7 @@
+I've created a quiz app with Next.js and React, featuring a sleek interface using Material UI.
+Link: 
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
